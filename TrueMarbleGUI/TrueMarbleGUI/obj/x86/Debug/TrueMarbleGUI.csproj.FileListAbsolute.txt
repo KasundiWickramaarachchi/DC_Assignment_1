@@ -1,0 +1,10 @@
+/home/kasundi/Documents/TrueMarbleGUI/TrueMarbleGUI/bin/Debug/TrueMarbleGUI.exe
+/home/kasundi/Documents/TrueMarbleGUI/TrueMarbleGUI/bin/Debug/TrueMarbleGUI.pdb
+/home/kasundi/Documents/TrueMarbleGUI/TrueMarbleGUI/obj/x86/Debug/TrueMarbleGUI.csprojAssemblyReference.cache
+/home/kasundi/Documents/TrueMarbleGUI/TrueMarbleGUI/obj/x86/Debug/TrueMarbleGUI.csproj.CoreCompileInputs.cache
+/home/kasundi/Documents/TrueMarbleGUI/TrueMarbleGUI/obj/x86/Debug/TrueMarbleGUI.exe
+/home/kasundi/Documents/TrueMarbleGUI/TrueMarbleGUI/obj/x86/Debug/TrueMarbleGUI.pdb
+/home/kasundi/Documents/TrueMarbleGUI/TrueMarbleGUI/bin/Debug/TrueMarbleData.exe
+/home/kasundi/Documents/TrueMarbleGUI/TrueMarbleGUI/bin/Debug/TrueMarbleLibrary.dll
+/home/kasundi/Documents/TrueMarbleGUI/TrueMarbleGUI/bin/Debug/TrueMarbleData.pdb
+/home/kasundi/Documents/TrueMarbleGUI/TrueMarbleGUI/obj/x86/Debug/TrueMarbleGUI.csproj.CopyComplete
