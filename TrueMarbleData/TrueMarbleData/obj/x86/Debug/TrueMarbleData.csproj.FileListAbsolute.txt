@@ -1,0 +1,8 @@
+/home/kasundi/Documents/TrueMarbleData/TrueMarbleData/obj/x86/Debug/TrueMarbleData.csprojAssemblyReference.cache
+/home/kasundi/Documents/TrueMarbleData/TrueMarbleData/obj/x86/Debug/TrueMarbleData.csproj.CoreCompileInputs.cache
+/home/kasundi/Documents/TrueMarbleData/TrueMarbleData/bin/Debug/TrueMarbleData.exe
+/home/kasundi/Documents/TrueMarbleData/TrueMarbleData/bin/Debug/TrueMarbleData.pdb
+/home/kasundi/Documents/TrueMarbleData/TrueMarbleData/bin/Debug/TrueMarbleLibrary.dll
+/home/kasundi/Documents/TrueMarbleData/TrueMarbleData/obj/x86/Debug/TrueMarbleData.csproj.CopyComplete
+/home/kasundi/Documents/TrueMarbleData/TrueMarbleData/obj/x86/Debug/TrueMarbleData.exe
+/home/kasundi/Documents/TrueMarbleData/TrueMarbleData/obj/x86/Debug/TrueMarbleData.pdb
